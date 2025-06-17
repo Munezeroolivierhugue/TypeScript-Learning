@@ -11,6 +11,7 @@
 - Basic Types[exceptional in ts]: tuple, enum, any, unknown, void.
 - Difference between Enum, Type and Interface.
 - Typescript Arrays and Tuples
+- Typescript functions
 
 ## Video Tutorials used:
 - mosh [TypeScript Tutorial for Beginners || https://www.youtube.com/watch?v=d56mG7DezGs]
