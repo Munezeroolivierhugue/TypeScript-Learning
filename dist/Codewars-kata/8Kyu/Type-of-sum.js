@@ -4,5 +4,4 @@ exports.typeOfSum = typeOfSum;
 function typeOfSum(a, b) {
     return `${typeof (a + b)}`;
 }
-// console.log(typeOfSum(10,4))
 console.log(typeOfSum("hello", "world"));
