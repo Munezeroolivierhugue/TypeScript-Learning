@@ -8,9 +8,9 @@
 
 ## Concept Covered in this Learning Journey:
 - Initializing Typescript [tsc --init].
-- Basic Types: number, string, boolean, array, tuple, enum, any, unknown, void, null, undefined.
+- Basic Types[exceptional in ts]: tuple, enum, any, unknown, void.
 - Difference between Enum, Type and Interface.
-- 
+- Typescript Arrays and Tuples
 
 ## Video Tutorials used:
 - mosh [TypeScript Tutorial for Beginners || https://www.youtube.com/watch?v=d56mG7DezGs]
