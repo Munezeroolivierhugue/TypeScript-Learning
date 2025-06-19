@@ -10,7 +10,7 @@
 - Initializing Typescript [tsc --init].
 - Basic Types[exceptional in ts]: tuple, enum, any, unknown, void.
 - Difference between Enum, Type and Interface.
-- Typescript Arrays and Tuples
+- Typescript *Arrays*, *Tuples* and *Objects*
 - Typescript functions
 
 ## Video Tutorials used:

@@ -8,16 +8,15 @@
 
 export function spinWords(words: string): string {
     //TODO Have fun :)
-  let finalWord = words.split(" ").map(word => {
+  let finalWord: string = words.split(" ").map(word => {
     if(word.length < 5){
       return word
     }
     else{
-      return word.split('').map(ch => ch.split("").reverse().join(''))
+      return word.split('').reverse().join('')
     }
   }).join(' ')
-  console.log(finalWord)
-  return " "
+  return finalWord
 }
 
 console.log(spinWords("Hey fellow warriors"))
