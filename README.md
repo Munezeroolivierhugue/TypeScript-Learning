@@ -9,9 +9,14 @@
 ## Concept Covered in this Learning Journey:
 - Initializing Typescript [tsc --init].
 - Basic Types[exceptional in ts]: tuple, enum, any, unknown, void.
+- Advanced Types
 - Difference between Enum, Type and Interface.
 - Typescript *Arrays*, *Tuples* and *Objects*
 - Typescript functions
 
+- Deep Understanding of Generics
+
 ## Video Tutorials used:
 - mosh [TypeScript Tutorial for Beginners || https://www.youtube.com/watch?v=d56mG7DezGs]
+  mosh [Typescript Tutorial for 5 hours]
+- Web Dev Simplified [TypeScript Generics || https://www.youtube.com/watch?v=EcCTIExsqmI]
