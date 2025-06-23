@@ -16,8 +16,15 @@
 
 - Deep Understanding of Generics
 
+## Documentations used:
+- Total Typescript Essential [https://www.totaltypescript.com/books/total-typescript-essentials]
+- Tutorial Teacher [https://www.tutorialsteacher.com/typescript/]
+
 ## Video Tutorials used:
 - mosh [TypeScript Tutorial for Beginners || https://www.youtube.com/watch?v=d56mG7DezGs]
   mosh [Typescript Tutorial for 5 hours]
 - FreeCodeCamp [Learn TypeScript || https://youtu.be/SpwzRDUQ1GI?si=vKYVipjEIlgOQD3u]
 - Web Dev Simplified [TypeScript Generics || https://www.youtube.com/watch?v=EcCTIExsqmI]
+
+## Summary
+- CheatSheet [https://www.typescriptlang.org/cheatsheets/]
