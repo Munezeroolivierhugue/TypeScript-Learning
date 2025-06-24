@@ -16,6 +16,10 @@
 
 - Deep Understanding of Generics
 
+## Exercises Done:
+- Debugging Typescript [https://typescript-exercises.github.io/]
+- Codewars Kata [https://www.codewars.com]
+
 ## Documentations used:
 - Total Typescript Essential [https://www.totaltypescript.com/books/total-typescript-essentials]
 - Tutorial Teacher [https://www.tutorialsteacher.com/typescript/]
