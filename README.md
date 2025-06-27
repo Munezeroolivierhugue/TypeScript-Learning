@@ -13,8 +13,8 @@
 - Difference between Enum, Type and Interface.
 - Typescript *Arrays*, *Tuples* and *Objects*
 - Typescript functions
-
 - Deep Understanding of Generics
+- Modules
 
 ## Exercises Done:
 - Debugging Typescript [https://typescript-exercises.github.io/]
