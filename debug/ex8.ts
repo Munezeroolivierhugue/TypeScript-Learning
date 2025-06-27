@@ -1,10 +1,16 @@
 // Type this function to ensure name is required and age is optional
-function describePerson(person) {
+type PersonDescription = {
+    id: number
+    name: string,
+    age?: number
+}
+function describePerson(person: PersonDescription) {
   const agePart = person.age ? ` who is ${person.age} years old` : '';
   return `${person.name}${agePart}`;
 }
 
 
-const user2 = { id: 1, username: "alice" };
+const user2 = { id: 1, name: "alice" };
+console.log(describePerson(user2))
 
-getProperty(user2, 'username') should return a string
+// getProperty(user2, 'username') should return a string

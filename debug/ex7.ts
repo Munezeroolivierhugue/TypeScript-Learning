@@ -1,5 +1,5 @@
 // Write a function isDefined that acts as a type guard
-function isDefined<T>(value: T): boolean {
+function isDefined<T>(value: T): value is T {
   return value !== undefined && value !== null;
 }
 
