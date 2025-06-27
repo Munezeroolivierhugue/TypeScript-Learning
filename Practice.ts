@@ -2,8 +2,6 @@
 // 2. differentiate function void and variable void
 // 3. what happens when you return undefined in never function
 // 4. difference between types and interfaces :::::::::: interface supports merging, extends but not type
-
-//this one i read it but didn't understand it
 // 5. type assertion vs annotation
 // 6. type narrowing vs type guards
 // 7. index signature

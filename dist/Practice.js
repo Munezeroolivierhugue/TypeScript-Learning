@@ -4,5 +4,6 @@ const human = {
 };
 function myUser(person) {
     console.log(person);
+    person.User.age++;
 }
 console.log(myUser(human));
